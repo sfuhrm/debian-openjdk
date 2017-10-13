@@ -1,7 +1,7 @@
 # Debian Linux + OpenJDK 
 
 Simple Docker image with
-* Debian 9 or CentOS 7
+* Debian 9
 * OpenJDK
 
 The image has a symlink from `/jdk` to the OpenJDK folder.
